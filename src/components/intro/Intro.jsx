@@ -11,6 +11,7 @@ export default function Intro() {
             strings: [
                 "Software Engineer",
                 "Machine Learning Engineer",
+                "Back-End Developer",
                 "Software Developer",
                 "Full-Stack Developer",
             ],
