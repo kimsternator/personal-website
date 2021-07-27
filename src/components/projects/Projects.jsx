@@ -20,11 +20,11 @@ export default function Projects() {
                     <h2>Community Posting Board MVP</h2>
                 </div>
                 <div className="square">
-                    <img src="icons/js.png" href="https://stephenskim.codes/sorting-visualizer/" alt="React" />
+                    <img src="icons/react.png" href="https://stephenskim.codes/sorting-visualizer/" alt="React" />
                     <h2>Sorting Algorithm Visualizer</h2>
                 </div>
                 <div className="square">
-                    <img src="icons/python.png" alt="React" />
+                    <img src="icons/react.png" alt="React" />
                     <h2>Path Finding Visualizer</h2>
                 </div>
             </div>
