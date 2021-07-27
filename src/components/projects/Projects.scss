@@ -46,6 +46,11 @@
       border-radius: 50px;
       box-shadow: 10px 5px 5px 1px rgb(43, 43, 43);
       flex: 0.25;
+      overflow: hidden;
+
+      &.square:hover {
+        cursor: pointer;
+      }
 
       @include mobile {
         height: 200px;
