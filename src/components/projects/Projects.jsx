@@ -23,7 +23,7 @@ export default function Projects() {
                     <img src="icons/react.png" alt="React" />
                     <h2>Sorting Algorithm Visualizer</h2>
                 </div>
-                <div className="square" onClick={() => {window.open("https://github.com/kimsternator")}}>
+                <div className="square" onClick={() => {window.open("https://stephenskim.codes/pathfinding-visualizer/")}}>
                     <img src="icons/react.png" alt="React" />
                     <h2>Path Finding Visualizer</h2>
                 </div>
