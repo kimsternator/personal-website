@@ -21,7 +21,7 @@ export default function Skills () {
             id: "2",
             title: "Tools",
             icons: [
-                {icon: "icons/tensorflow.png", label: "TensorFlow"},
+                // {icon: "icons/tensorflow.png", label: "TensorFlow"},
                 {icon: "icons/pytorch.png", label: "PyTorch"},
                 {icon: "icons/numpy.png", label: "NumPy"},
                 {icon: "icons/pandas.png", label: "Pandas"},
@@ -39,7 +39,7 @@ export default function Skills () {
                 {icon: "icons/react.png", label: "React"},
                 {icon: "icons/scss.png", label: "SASS/SCSS"},
                 {icon: "icons/node.png", label: "Node.js"},
-                {icon: "icons/next.png", label: "Next.js"},
+                // {icon: "icons/next.png", label: "Next.js"},
                 {icon: "icons/flask-logo.png", label: "Flask"},
             ],
         },
